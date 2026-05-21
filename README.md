@@ -173,19 +173,19 @@ const hichem = {
 <!-- TROPHIES — Uncomment once your account has enough activity      -->
 <!-- ════════════════════════════════════════════════════════════════ -->
 
-<!--
+
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=bhichem15&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" />
 </div>
--->
+
 
 <!-- ════════════════════════════════════════════════════════════════ -->
 <!-- ACTIVITY GRAPH — Uncomment to add contribution graph            -->
 <!-- ════════════════════════════════════════════════════════════════ -->
 
-<!--
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhichem15&theme=tokyo-night&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&hide_border=true" width="100%"/>
--->
+
 
 <br/>
 
