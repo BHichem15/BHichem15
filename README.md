@@ -7,6 +7,16 @@ I'm <i>**Hichem**</i> — a Full-Stack Developer from 🇩🇿 **Algeria** who a
 - My Best project yet is **HardMonX** which you'll find it <a href="https://github.com/BHichem15/HardMonX">**Here**</a>.
 - **Fun Fact:** I'm obsessed about anything in computers to the point that I destroy some devices with expirements.
 <br>
+<div>
+<p><b>To Get my CV:</b></p>
+
+[![CV](https://img.shields.io/badge/_CV-En_CV-7c3aed?style=for-the-badge)](https://github.com/BHichem15/CV-en.md)
+[![CV](https://img.shields.io/badge/_CV-De_CV-7c3aed?style=for-the-badge)](https://github.com/BHichem15/CV-de.md)
+[![CV](https://img.shields.io/badge/_CV-Fr_CV-7c3aed?style=for-the-badge)](https://github.com/BHichem15/CV-fr.md)
+[![CV](https://img.shields.io/badge/_CV-Ar_CV-7c3aed?style=for-the-badge)](https://github.com/BHichem15/CV-ar.md)
+</div>
+  
+<br>
 <h3><i>My Skills</i></h3>
 
 <div>
@@ -33,8 +43,6 @@ The best ideas start with a conversation — reach out anytime.
 [![Portfolio](https://img.shields.io/badge/_Portfolio-bhichem.net-7c3aed?style=for-the-badge)](https://bhichem.net)
 &nbsp;
 [![Email](https://img.shields.io/badge/_Email-contact@bhichem.net-7c3aed?style=for-the-badge)](mailto:contact@bhichem.net)
-[![CV](https://img.shields.io/badge/_CV-En_CV-7c3aed?style=for-the-badge)](https://github.com/BHichem15/CV-en.md)
-
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhichem)
