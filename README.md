@@ -8,7 +8,7 @@ I'm <i>**Hichem**</i> — a Full-Stack Developer from 🇩🇿 **Algeria** who a
 - **Fun Fact:** I'm obsessed about anything in computers to the point that I destroy some devices with expirements.
 <br>
 <div>
-<p><b>To Get my CV:</b></p>
+<p><b>Get my CV:</b></p>
 
 [![CV](https://img.shields.io/badge/_CV-En_CV-7c3aed?style=for-the-badge)](https://github.com/BHichem15/CV-en.md)
 [![CV](https://img.shields.io/badge/_CV-De_CV-7c3aed?style=for-the-badge)](https://github.com/BHichem15/CV-de.md)
