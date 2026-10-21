@@ -40,9 +40,9 @@ The best ideas start with a conversation — reach out anytime.
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/_Portfolio-bhichem.net-7c3aed?style=for-the-badge)](https://bhichem.net)
+[![Portfolio](https://img.shields.io/badge/_Portfolio-bhichem.xyz-7c3aed?style=for-the-badge)](https://bhichem.xyz)
 &nbsp;
-[![Email](https://img.shields.io/badge/_Email-contact@bhichem.net-7c3aed?style=for-the-badge)](mailto:contact@bhichem.net)
+[![Email](https://img.shields.io/badge/_Email-contact@bhichem.xyz-7c3aed?style=for-the-badge)](mailto:contact@bhichem.xyz)
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhichem)
